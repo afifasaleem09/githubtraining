@@ -3,5 +3,5 @@ Text message
 Emoji
 Vibrant
 Voice call
-dark mdode
+dark mode
 video call
